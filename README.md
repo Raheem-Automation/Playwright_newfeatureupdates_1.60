@@ -16,4 +16,3 @@ Playwright remains one of the most powerful frameworks for end-to-end testing, o
 
 Looking forward to exploring these features in real-world automation projects! 🚀
 
-#Playwright #AutomationTesting #QA #SoftwareTesting #QualityAssurance #TestAutomation #WebTesting #CICD #TechLearning #QAEngineer #TestingCommunity
